@@ -1,0 +1,1 @@
+draw_text(20, 20, "Loop: " + string(ceil(timer/room_speed)));

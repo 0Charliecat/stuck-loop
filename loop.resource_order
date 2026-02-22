@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_flag","order":3,"path":"objects/obj_flag/obj_flag.yy",},
+    {"name":"obj_loop_controller","order":1,"path":"objects/obj_loop_controller/obj_loop_controller.yy",},
+    {"name":"obj_solid","order":2,"path":"objects/obj_solid/obj_solid.yy",},
+    {"name":"sprite_flag","order":2,"path":"sprites/sprite_flag/sprite_flag.yy",},
+    {"name":"sprite_solid_standing","order":1,"path":"sprites/sprite_solid_standing/sprite_solid_standing.yy",},
+  ],
+}
